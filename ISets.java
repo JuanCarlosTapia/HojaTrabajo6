@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet;
-import java.util.Scanner;//Aqui se importa el scanner
+import java.util.Scanner;
 
 
 
