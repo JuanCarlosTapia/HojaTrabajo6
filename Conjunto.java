@@ -1,3 +1,8 @@
+// Universidad del Valle de Guatemala
+// Algoritmos y estructuras de datos
+// Hoja de trabajo 6 
+// Juan Carlos Tapia Flores 14133
+// Leonel Guillen del Valle 14451
 
 import java.util.ArrayList;
 import java.util.Collection;
